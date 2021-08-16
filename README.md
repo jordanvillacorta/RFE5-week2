@@ -6,3 +6,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 I found a good resource for creating a Stack function that uses constant time / O(1) to get the minValue:
 -- https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/
+
+A good resource for keeping the HTML safe from XSS attacks:
+-- http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx/
